@@ -1,3 +1,0 @@
-checker-mode: 1  # 0->disable, 1->offline, 2->online, 3->both
-kick-message: "Illegal UUID or Username"
-debug: false
